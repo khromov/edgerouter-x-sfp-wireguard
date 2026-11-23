@@ -1,0 +1,8 @@
+# Device configs: contain private keys
+clients/
+# Your endpoint hostname (points at your home IP)
+local.conf
+# Run logs (contain router config details)
+logs/
+# Downloaded upstream data (compat git history, NVD results)
+.cache/
