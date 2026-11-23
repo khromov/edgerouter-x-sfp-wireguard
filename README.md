@@ -114,3 +114,7 @@ review, not a verdict.
 | `logs/` | Run logs (router details, no private keys) | no |
 | `install.sh`, `device.sh`, `lib/` | Mac side | yes |
 | `router/erx-wg.sh` | Router side, uploaded to `/tmp/erx-wg` on each run | yes |
+
+## License
+
+MIT, see [LICENSE](LICENSE).
